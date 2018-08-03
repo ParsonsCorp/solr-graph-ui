@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Facet Sunburst</title>
+    <style>
+        svg {
+            border: 1px solid black;
+        }
+        text {
+            pointer-events: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+
+<div style="float: right">
+    <select id="themeSelection">
+    </select>
+</div>
+<div style="float: left">
+    <h1>Server</h1>
+    <input id="serverField" type="text" name="host">
+    <h1>Collection</h1>
+    <input id="collectionField" type="text" name="port">
+    <h1>Primary Facet</h1>
+    <input id="primaryTypeField" type="text" name="facet">
+    <h1>Secondary Facet</h1>
+    <input id="secondaryFacetField" type="text" name="facet">
+    <!--<h1>Time Stamp</h1>-->
+    <!--<input id="timeStampField" type="text" name="timeStamp"><br>-->
+    <h1># of Rows</h1>
+    <input id="numRows" type="text" name="numRows" value="5"><br>
+    <button id="Reset" onclick="restart()">Load</button>
+    <br>
+    <input class="toggle" type="checkbox" name="Other" value="Other">Show Other<br>
+    <input class="toggle" type="checkbox" name="Null" value="Null">Show Null<br>
+</div>
+<div style="float: right" id="mainContainer">
+    <div id="sequence"></div>
+    <div id="explanation" style="visibility: hidden;">
+        <span id="percentage"></span><br/>
+    </div>
+    <br>
+    <svg id="mainDisplay" width="1400" height="800"></svg>
+</div>
+<script type="text/javascript" src="../Javascript/SolrFacetExplorerSunburst.js"></script>
+</body>
+</html>

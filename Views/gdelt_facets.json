@@ -1,0 +1,3295 @@
+{
+  "responseHeader": {
+    "zkConnected": true,
+    "status": 0,
+    "QTime": 0,
+    "params": {
+      "q": "-id:_lw* AND _p_stats_facetScore_d:[* TO *] AND schema_id_s:\"http://10.2.49.35:8983/solr/|gdelt\" AND node_type_s:Attribute AND -attr_id:id",
+      "sort": "_p_stats_facetScore_d desc",
+      "rows": "30"
+    }
+  },
+  "response": {
+    "numFound": 694,
+    "start": 0,
+    "docs": [
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          2.886
+        ],
+        "_p_stats_cardinality": [
+          0.003
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          5772.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 63.92522432701895,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "ActionGeo_Type"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1.3239639119780078
+        ],
+        "id": "ActionGeo_Type||gdeltDoc|0|en",
+        "_p_stats_max": [
+          5
+        ],
+        "_p_stats_min": [
+          0
+        ],
+        "_p_stats_distinctCount": [
+          6
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177373085696
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          2.459
+        ],
+        "_p_stats_cardinality": [
+          0.003
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4918.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 63.92522432701895,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Actor1Geo_Type"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1.5936087331579225
+        ],
+        "id": "Actor1Geo_Type||gdeltDoc|0|en",
+        "_p_stats_max": [
+          5
+        ],
+        "_p_stats_min": [
+          0
+        ],
+        "_p_stats_distinctCount": [
+          6
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177463263232
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          2.1745
+        ],
+        "_p_stats_cardinality": [
+          0.003
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4349.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 63.92522432701895,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Actor2Geo_Type"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1.67793250124651
+        ],
+        "id": "Actor2Geo_Type||gdeltDoc|0|en",
+        "_p_stats_max": [
+          5
+        ],
+        "_p_stats_min": [
+          0
+        ],
+        "_p_stats_distinctCount": [
+          6
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177849139200
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          0.588
+        ],
+        "_p_stats_cardinality": [
+          0.001
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "number"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          1176.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 63.92522432701895,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "IsRootEvent"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          0.4923181782082571
+        ],
+        "id": "IsRootEvent||gdeltDoc|0|en",
+        "_p_stats_max": [
+          1
+        ],
+        "_p_stats_min": [
+          0
+        ],
+        "_p_stats_distinctCount": [
+          2
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "0",
+          "1"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178075631616
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          1.797
+        ],
+        "_p_stats_cardinality": [
+          0.002
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          3594.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 63.92522432701895,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "QuadClass"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1.139930138368216
+        ],
+        "id": "QuadClass||gdeltDoc|0|en",
+        "_p_stats_max": [
+          4
+        ],
+        "_p_stats_min": [
+          1
+        ],
+        "_p_stats_distinctCount": [
+          4
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178115477504
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          5.391304347826087
+        ],
+        "_p_stats_cardinality": [
+          0.002201430930104568
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9057826520438684
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 62.64456630109671,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Content_Encoding"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          1.3796984285787228
+        ],
+        "id": "Content_Encoding||gdeltDoc|0|en",
+        "_p_stats_max": [
+          12
+        ],
+        "_p_stats_min": [
+          5
+        ],
+        "_p_stats_distinctCount": [
+          4
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "UTF-8",
+          "ISO-8859-1",
+          "windows-1252",
+          "ISO-8859-6"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178212995072
+      },
+      {
+        "most_generic_suffix_t": [
+          "_dt"
+        ],
+        "most_generic_suffix_s": "_dt",
+        "attr__p_stats_min_": [
+          "Tue Feb 20 06:52:08 UTC 2018",
+          "Tue Feb 20 06:52:08 UTC 2018",
+          "Tue Feb 20 06:52:08 UTC 2018",
+          "Tue Feb 20 06:52:08 UTC 2018",
+          "Tue Feb 20 06:52:08 UTC 2018",
+          "Tue Feb 20 06:52:08 UTC 2018"
+        ],
+        "_p_stats_cardinality": [
+          0.0019940179461615153
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String",
+          "Date"
+        ],
+        "_p_stats_fieldDensity": [
+          1.0
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.Date"
+        ],
+        "most_generic_type_s": "SS.Date",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          3.047831765342E15
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 62.0,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "lastModified"
+        ],
+        "datatypes_ss": [
+          "TP_",
+          "_dt"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "attr__p_stats_max_": [
+          "Wed Jul 18 20:30:12 UTC 2018",
+          "Wed Jul 18 20:30:12 UTC 2018",
+          "Wed Jul 18 20:30:12 UTC 2018",
+          "Wed Jul 18 20:30:12 UTC 2018",
+          "Wed Jul 18 20:30:12 UTC 2018",
+          "Wed Jul 18 20:30:12 UTC 2018"
+        ],
+        "_p_stats_stddev": [
+          6.919400804977918E8
+        ],
+        "id": "lastModified||gdeltDoc|0|en",
+        "_p_stats_distinctCount": [
+          4
+        ],
+        "hierarchy_level_i": 2,
+        "_p_stats_distinctValues": [
+          "2018-02-20T06:52:08Z",
+          "2018-02-22T21:40:52Z",
+          "2018-07-18T19:43:26Z",
+          "2018-07-18T20:30:12Z"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178952241152
+      },
+      {
+        "most_generic_suffix_t": [
+          "_s"
+        ],
+        "most_generic_suffix_s": "_s",
+        "_p_stats_average": [
+          65.9147557328016
+        ],
+        "_p_stats_cardinality": [
+          0.0019940179461615153
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          1.0
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 61.0,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "parent"
+        ],
+        "datatypes_ss": [
+          "_s"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1.5565804787399056
+        ],
+        "id": "parent||gdeltDoc|0|en",
+        "_p_stats_max": [
+          66
+        ],
+        "_p_stats_min": [
+          37
+        ],
+        "_p_stats_distinctCount": [
+          4
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "http://data.gdeltproject.org/gdeltv2/20180222214500.export.CSV.zip",
+          "http://data.gdeltproject.org/gdeltv2/20180220070000.export.CSV.zip",
+          "/opt/fusion/4.0.1/data/test/test.json",
+          "/opt/fusion/4.0.1/data/test2/blah.json"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000180071071744
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          36.996147495872314
+        ],
+        "_p_stats_cardinality": [
+          0.001651073197578426
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9057826520438684
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 59.64456630109671,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "X_Parsed_By"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          0.9999925790784603
+        ],
+        "id": "X_Parsed_By||gdeltDoc|0|en",
+        "_p_stats_max": [
+          38
+        ],
+        "_p_stats_min": [
+          36
+        ],
+        "_p_stats_distinctCount": [
+          3
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "org.apache.tika.parser.DefaultParser",
+          "org.apache.tika.parser.html.HtmlParser",
+          "org.apache.tika.parser.txt.TXTParser"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178539102208
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          25.64336818932306
+        ],
+        "_p_stats_cardinality": [
+          0.004402861860209136
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9057826520438684
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 57.35706630109671,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Content_Type"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          3.8966351985386813
+        ],
+        "id": "Content_Type||gdeltDoc|0|en",
+        "_p_stats_max": [
+          43
+        ],
+        "_p_stats_min": [
+          24
+        ],
+        "_p_stats_distinctCount": [
+          8
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "text/html; charset=UTF-8",
+          "application/xhtml+xml; charset=UTF-8",
+          "text/html; charset=ISO-8859-1",
+          "application/xhtml+xml; charset=windows-1252",
+          "text/plain; charset=UTF-8",
+          "text/html; charset=windows-1252",
+          "application/xhtml+xml; charset=ISO-8859-1",
+          "text/html; charset=ISO-8859-6"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178319949824
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          201800.077
+        ],
+        "_p_stats_cardinality": [
+          0.0015
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4.03600154E8
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 53.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "MonthYear"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          13.653508015911893
+        ],
+        "id": "MonthYear||gdeltDoc|0|en",
+        "_p_stats_max": [
+          201802
+        ],
+        "_p_stats_min": [
+          201702
+        ],
+        "_p_stats_distinctCount": [
+          3
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "201702",
+          "201801",
+          "201802"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178096603136
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          1.0415
+        ],
+        "_p_stats_cardinality": [
+          0.0035
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          2083.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 53.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "NumSources"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          0.36033688589383667
+        ],
+        "id": "NumSources||gdeltDoc|0|en",
+        "_p_stats_max": [
+          8
+        ],
+        "_p_stats_min": [
+          1
+        ],
+        "_p_stats_distinctCount": [
+          7
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178111283200
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          2017.981
+        ],
+        "_p_stats_cardinality": [
+          0.001
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4035962.0
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 53.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Year"
+        ],
+        "datatypes_ss": [
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          0.1365588670210801
+        ],
+        "id": "Year||gdeltDoc|0|en",
+        "_p_stats_max": [
+          2018
+        ],
+        "_p_stats_min": [
+          2017
+        ],
+        "_p_stats_distinctCount": [
+          2
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "2017",
+          "2018"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000179827802112
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          16.141703377386197
+        ],
+        "_p_stats_cardinality": [
+          0.0044444444444444444
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.6729810568295115
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 51.32452642073778,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "twitter_card"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          5.116531271544262
+        ],
+        "id": "twitter_card||gdeltDoc|0|en",
+        "_p_stats_max": [
+          19
+        ],
+        "_p_stats_min": [
+          5
+        ],
+        "_p_stats_distinctCount": [
+          6
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "summary_large_image",
+          "summary",
+          "article",
+          "player",
+          "gallery",
+          "photo"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000179707215872
+      },
+      {
+        "attr__p_stats_min_": [
+          "[1487548800000]"
+        ],
+        "_p_stats_average": [
+          1.5185659248E12
+        ],
+        "_p_stats_cardinality": [
+          0.005
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.number",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          3.0371318496E15
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 49.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Day_dt.epoch"
+        ],
+        "Multivalued_b": true,
+        "docValues_b": true,
+        "attr__p_stats_max_": [
+          "[1519257600000]"
+        ],
+        "_p_stats_stddev": [
+          4.329216670424457E9
+        ],
+        "id": "Day_dt.epoch||gdeltDoc|0|en",
+        "_p_stats_max": [
+          1519257600000
+        ],
+        "_p_stats_min": [
+          1487548800000
+        ],
+        "_p_stats_distinctCount": [
+          10
+        ],
+        "hierarchy_level_i": 2,
+        "_p_stats_distinctValues": [
+          "2017-02-20T00:00:00Z",
+          "2017-02-22T00:00:00Z",
+          "2018-01-21T00:00:00Z",
+          "2018-01-23T00:00:00Z",
+          "2018-02-13T00:00:00Z",
+          "2018-02-15T00:00:00Z",
+          "2018-02-19T00:00:00Z",
+          "2018-02-20T00:00:00Z",
+          "2018-02-21T00:00:00Z",
+          "2018-02-22T00:00:00Z"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177946656768
+      },
+      {
+        "most_generic_suffix_t": [
+          "_i"
+        ],
+        "most_generic_suffix_s": "_i",
+        "_p_stats_average": [
+          2.01800293425E7
+        ],
+        "_p_stats_cardinality": [
+          0.005
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Date",
+          "Integer"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4.0360058685E10
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 48.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Day"
+        ],
+        "datatypes_ss": [
+          "_dt",
+          "_i"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          1365.4827705446623
+        ],
+        "id": "Day||gdeltDoc|0|en",
+        "_p_stats_max": [
+          20180222
+        ],
+        "_p_stats_min": [
+          20170220
+        ],
+        "_p_stats_distinctCount": [
+          10
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "20170220",
+          "20170222",
+          "20180121",
+          "20180123",
+          "20180213",
+          "20180215",
+          "20180219",
+          "20180220",
+          "20180221",
+          "20180222"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177945608192
+      },
+      {
+        "_p_stats_average": [
+          2.0
+        ],
+        "_p_stats_cardinality": [
+          0.01
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.String",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 48.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "EventRootCode"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          0.0
+        ],
+        "id": "EventRootCode||gdeltDoc|0|en",
+        "_p_stats_max": [
+          2
+        ],
+        "_p_stats_min": [
+          2
+        ],
+        "_p_stats_distinctCount": [
+          20
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "04",
+          "01",
+          "03",
+          "11",
+          "02",
+          "19",
+          "05",
+          "17",
+          "08",
+          "07",
+          "18",
+          "06",
+          "12",
+          "13",
+          "09",
+          "10",
+          "16",
+          "14",
+          "15",
+          "20"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177964482560
+      },
+      {
+        "most_generic_suffix_t": [
+          "_f"
+        ],
+        "most_generic_suffix_s": "_f",
+        "_p_stats_average": [
+          2018.1205845336915
+        ],
+        "_p_stats_cardinality": [
+          0.005
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Float"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          4036241.169067383
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 48.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "FractionDate"
+        ],
+        "datatypes_ss": [
+          "_f"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          0.13725251764341512
+        ],
+        "id": "FractionDate||gdeltDoc|0|en",
+        "_p_stats_max": [
+          2018
+        ],
+        "_p_stats_min": [
+          2017
+        ],
+        "_p_stats_distinctCount": [
+          10
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "2017.137",
+          "2017.1425",
+          "2018.0575",
+          "2018.063",
+          "2018.1178",
+          "2018.1233",
+          "2018.1342",
+          "2018.137",
+          "2018.1396",
+          "2018.1425"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177968676864
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          6.998678996036988
+        ],
+        "_p_stats_cardinality": [
+          0.006644518272425249
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.7502492522432702
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 48.806231306081756,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "og_type"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          0.5883037423454356
+        ],
+        "id": "og_type||gdeltDoc|0|en",
+        "_p_stats_max": [
+          19
+        ],
+        "_p_stats_min": [
+          4
+        ],
+        "_p_stats_distinctCount": [
+          10
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "article",
+          "website",
+          "Article",
+          "Website",
+          "story",
+          "feed",
+          "scribd-com:document",
+          "blog",
+          "object",
+          "musician"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000179386351616
+      },
+      {
+        "most_generic_suffix_t": [
+          "_s"
+        ],
+        "most_generic_suffix_s": "_s",
+        "_p_stats_average": [
+          13.169
+        ],
+        "_p_stats_cardinality": [
+          0.01
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 45.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "EventRootCodeName"
+        ],
+        "datatypes_ss": [
+          "_s"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          9.037335835300064
+        ],
+        "id": "EventRootCodeName||gdeltDoc|0|en",
+        "_p_stats_max": [
+          33
+        ],
+        "_p_stats_min": [
+          5
+        ],
+        "_p_stats_distinctCount": [
+          20
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "Consult ",
+          "Make Public Statement ",
+          "Express Intent to Cooperate ",
+          "Disapprove",
+          "Appeal",
+          "Fight",
+          "Engage in Diplomatic Cooperation ",
+          "Coerce",
+          "Yield",
+          "Provide Aid",
+          "Assault",
+          "Engage in Material Cooperation",
+          "Reject",
+          "Threaten",
+          "Investigate",
+          "Demand",
+          "Reduce Relations",
+          "Protest",
+          "Exhibit Force Posture",
+          "Use Unconventional Mass Violence"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177966579712
+      },
+      {
+        "_p_stats_average": [
+          0.42749999702349306
+        ],
+        "_p_stats_cardinality": [
+          0.0205
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.number",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          854.9999940469861
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 43.80327310750675,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "GoldsteinScale"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          4.550313883774654
+        ],
+        "id": "GoldsteinScale||gdeltDoc|0|en",
+        "_p_stats_max": [
+          10
+        ],
+        "_p_stats_min": [
+          -10
+        ],
+        "_p_stats_distinctCount": [
+          41
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "-10.0",
+          "-9.5",
+          "-9.2",
+          "-9.0",
+          "-8.0",
+          "-7.5",
+          "-7.2",
+          "-7.0",
+          "-6.5",
+          "-5.8",
+          "-5.0",
+          "-4.4",
+          "-4.0",
+          "-2.0",
+          "-0.4",
+          "-0.3",
+          "-0.1",
+          "0.0",
+          "0.4",
+          "1.0",
+          "1.9",
+          "2.5",
+          "2.8",
+          "3.0",
+          "3.2",
+          "3.4",
+          "3.5",
+          "3.8",
+          "4.0",
+          "4.5",
+          "5.0",
+          "5.2",
+          "6.0",
+          "6.4",
+          "7.0",
+          "7.4",
+          "8.0",
+          "8.3",
+          "8.5",
+          "9.0",
+          "10.0"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178059902976
+      },
+      {
+        "most_generic_suffix_t": [
+          "_dt"
+        ],
+        "most_generic_suffix_s": "_dt",
+        "attr__p_stats_min_": [
+          "Fri Jul 06 14:44:53 UTC 2018",
+          "Fri Jul 06 14:44:53 UTC 2018",
+          "Fri Jul 06 14:44:53 UTC 2018",
+          "Fri Jul 06 14:44:53 UTC 2018",
+          "Fri Jul 06 14:44:53 UTC 2018",
+          "Fri Jul 06 14:44:53 UTC 2018"
+        ],
+        "_p_stats_cardinality": [
+          0.01296111665004985
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Date"
+        ],
+        "_p_stats_fieldDensity": [
+          1.0
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.Date"
+        ],
+        "most_generic_type_s": "SS.Date",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          3.071618407986E15
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 43.715384615384615,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "fetchedDate"
+        ],
+        "datatypes_ss": [
+          "_dt"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "attr__p_stats_max_": [
+          "Tue Jul 24 16:09:13 UTC 2018",
+          "Tue Jul 24 16:09:13 UTC 2018",
+          "Tue Jul 24 16:09:13 UTC 2018",
+          "Tue Jul 24 16:09:13 UTC 2018",
+          "Tue Jul 24 16:09:13 UTC 2018",
+          "Tue Jul 24 16:09:13 UTC 2018"
+        ],
+        "_p_stats_stddev": [
+          1.1090497248490897E8
+        ],
+        "id": "fetchedDate||gdeltDoc|0|en",
+        "_p_stats_distinctCount": [
+          26
+        ],
+        "hierarchy_level_i": 2,
+        "_p_stats_distinctValues": [
+          "2018-07-06T14:44:53Z",
+          "2018-07-06T14:45:06Z",
+          "2018-07-06T14:45:49Z",
+          "2018-07-06T14:45:54Z",
+          "2018-07-06T14:46:00Z",
+          "2018-07-06T14:46:31Z",
+          "2018-07-10T15:15:10Z",
+          "2018-07-10T15:15:11Z",
+          "2018-07-10T15:15:27Z",
+          "2018-07-10T15:15:43Z",
+          "2018-07-10T15:15:47Z",
+          "2018-07-10T15:16:02Z",
+          "2018-07-10T15:17:29Z",
+          "2018-07-10T15:17:36Z",
+          "2018-07-10T15:17:37Z",
+          "2018-07-10T15:17:45Z",
+          "2018-07-10T15:18:10Z",
+          "2018-07-10T15:19:04Z",
+          "2018-07-10T15:19:23Z",
+          "2018-07-10T15:19:24Z",
+          "2018-07-10T15:19:31Z",
+          "2018-07-10T15:19:37Z",
+          "2018-07-10T15:20:22Z",
+          "2018-07-10T15:20:53Z",
+          "2018-07-24T16:08:58Z",
+          "2018-07-24T16:09:13Z"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000179914833920
+      },
+      {
+        "_p_stats_average": [
+          3.0
+        ],
+        "_p_stats_cardinality": [
+          0.0435
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.String",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 41.22407490173159,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "EventBaseCode"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          0.0
+        ],
+        "id": "EventBaseCode||gdeltDoc|0|en",
+        "_p_stats_max": [
+          3
+        ],
+        "_p_stats_min": [
+          3
+        ],
+        "_p_stats_distinctCount": [
+          87
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "042",
+          "040",
+          "043",
+          "010",
+          "020",
+          "036",
+          "173",
+          "051",
+          "190",
+          "112",
+          "046",
+          "013",
+          "110",
+          "111",
+          "130",
+          "060",
+          "012",
+          "080",
+          "120",
+          "193",
+          "084",
+          "090",
+          "015",
+          "071",
+          "031",
+          "100",
+          "014",
+          "030",
+          "070",
+          "114",
+          "180",
+          "182",
+          "050",
+          "033",
+          "011",
+          "023",
+          "192",
+          "172",
+          "026",
+          "057",
+          "128",
+          "181",
+          "061",
+          "081",
+          "087",
+          "017",
+          "032",
+          "035",
+          "041",
+          "018",
+          "073",
+          "160",
+          "194",
+          "021",
+          "022",
+          "072",
+          "141",
+          "183",
+          "191",
+          "113",
+          "115",
+          "186",
+          "062",
+          "101",
+          "124",
+          "125",
+          "139",
+          "152",
+          "153",
+          "163",
+          "164",
+          "170",
+          "171",
+          "195",
+          "016",
+          "025",
+          "027",
+          "044",
+          "052",
+          "053",
+          "074",
+          "083",
+          "085",
+          "134",
+          "138",
+          "145",
+          "203"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177953996800
+      },
+      {
+        "_p_stats_average": [
+          3.615686274509804
+        ],
+        "_p_stats_cardinality": [
+          0.051255766273705795
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9725822532402791
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.String",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 40.265556331006984,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "ActionGeo_ADM1Code"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          0.7879913777321712
+        ],
+        "id": "ActionGeo_ADM1Code||gdeltDoc|0|en",
+        "_p_stats_max": [
+          4
+        ],
+        "_p_stats_min": [
+          2
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "USTX",
+          "USCA",
+          "CA08",
+          "USFL",
+          "AS02",
+          "IN16",
+          "JO",
+          "IN07",
+          "USDC",
+          "ET00",
+          "USNY",
+          "CA",
+          "IN19",
+          "US",
+          "IS00",
+          "FR",
+          "LY61",
+          "USPA",
+          "IN02",
+          "IN10",
+          "NI44",
+          "USMA",
+          "USNC",
+          "KE",
+          "RS",
+          "USWY",
+          "SY13",
+          "UK",
+          "CA02",
+          "IS05",
+          "KE05",
+          "BG",
+          "CA10",
+          "RS48",
+          "SY09",
+          "USHI",
+          "USWI",
+          "CH",
+          "IS",
+          "KE01",
+          "MY",
+          "USMO",
+          "IN20",
+          "NI00",
+          "SP56",
+          "AF11",
+          "AS07",
+          "ID00",
+          "IN",
+          "IN23",
+          "MX",
+          "USOH",
+          "MT02",
+          "USNV",
+          "IN36",
+          "JM",
+          "TU68",
+          "USCO",
+          "USIA",
+          "WA",
+          "KS11",
+          "NI23",
+          "USIL",
+          "USMD",
+          "USMI",
+          "WE00",
+          "AE03",
+          "BG81",
+          "GR",
+          "HK00",
+          "JA",
+          "NI05",
+          "NI24",
+          "NI32",
+          "PK06",
+          "PK08",
+          "RQ",
+          "SZ05",
+          "USCT",
+          "USGA",
+          "USIN",
+          "USNE",
+          "USNM",
+          "AS01",
+          "AS05",
+          "GZ00",
+          "IN03",
+          "IS01",
+          "IS06",
+          "KE03",
+          "KE09",
+          "PK04",
+          "RP",
+          "SA14",
+          "USAK",
+          "USME",
+          "USMS",
+          "USVA",
+          "CH22",
+          "FI18"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177313316864
+      },
+      {
+        "_p_stats_average": [
+          2.0
+        ],
+        "_p_stats_cardinality": [
+          0.051255766273705795
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9725822532402791
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.String",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 40.265556331006984,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "ActionGeo_CountryCode"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          0.0
+        ],
+        "id": "ActionGeo_CountryCode||gdeltDoc|0|en",
+        "_p_stats_max": [
+          2
+        ],
+        "_p_stats_min": [
+          2
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "US",
+          "IN",
+          "CA",
+          "NI",
+          "AS",
+          "IS",
+          "KE",
+          "RS",
+          "JO",
+          "SY",
+          "ET",
+          "UK",
+          "BG",
+          "FR",
+          "CH",
+          "PK",
+          "LY",
+          "MY",
+          "SP",
+          "WA",
+          "AF",
+          "ID",
+          "MT",
+          "JA",
+          "TU",
+          "MX",
+          "KS",
+          "GM",
+          "JM",
+          "RP",
+          "SZ",
+          "HK",
+          "WE",
+          "AE",
+          "GR",
+          "RQ",
+          "ZI",
+          "EI",
+          "GZ",
+          "IT",
+          "SA",
+          "SF",
+          "EG",
+          "FI",
+          "IR",
+          "JE",
+          "KU",
+          "LA",
+          "MJ",
+          "MV",
+          "PO",
+          "VM",
+          "AU",
+          "BC",
+          "DA",
+          "GH",
+          "UG",
+          "YM",
+          "IZ",
+          "KN",
+          "MO",
+          "AO",
+          "AR",
+          "BF",
+          "BK",
+          "BN",
+          "CD",
+          "CM",
+          "CY",
+          "EC",
+          "ER",
+          "GY",
+          "LE",
+          "NG",
+          "NL",
+          "NZ",
+          "RI",
+          "RW",
+          "SN",
+          "TH",
+          "TZ",
+          "AJ",
+          "BB",
+          "BO",
+          "BR",
+          "CI",
+          "CT",
+          "CU",
+          "FJ",
+          "HR",
+          "HU",
+          "KG",
+          "KZ",
+          "LG",
+          "MK",
+          "PE",
+          "QA",
+          "RB",
+          "SO",
+          "SU"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177321705472
+      },
+      {
+        "_p_stats_average": [
+          5.265791632485644
+        ],
+        "_p_stats_cardinality": [
+          0.051255766273705795
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "_p_stats_fieldDensity": [
+          0.9725822532402791
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "node_type_s": "Attribute",
+        "most_generic_type_s": "SS.String",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 40.265556331006984,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "ActionGeo_FeatureID"
+        ],
+        "Multivalued_b": false,
+        "docValues_b": true,
+        "_p_stats_stddev": [
+          2.7310212447796522
+        ],
+        "id": "ActionGeo_FeatureID||gdeltDoc|0|en",
+        "_p_stats_max": [
+          8
+        ],
+        "_p_stats_min": [
+          2
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "CA",
+          "TX",
+          "JO",
+          "531871",
+          "-2092174",
+          "-618202",
+          "FL",
+          "US",
+          "-2094230",
+          "NY",
+          "-3178767",
+          "-797092",
+          "FR",
+          "-570760",
+          "-1575920",
+          "9153504",
+          "KE",
+          "RS",
+          "UK",
+          "-2258072",
+          "-574890",
+          "IN",
+          "-1603135",
+          "-2960561",
+          "-571850",
+          "BG",
+          "HI",
+          "WA",
+          "-2106102",
+          "CH",
+          "IS",
+          "MY",
+          "-372490",
+          "-575268",
+          "-781545",
+          "1660757",
+          "-2700387",
+          "-3377359",
+          "1380948",
+          "MA",
+          "MX",
+          "-18376",
+          "-2088794",
+          "-2090174",
+          "-2255077",
+          "-2538031",
+          "MO",
+          "-735338",
+          "1380944",
+          "6210381",
+          "JM",
+          "-2537705",
+          "-716583",
+          "-1353150",
+          "-1586844",
+          "-2020890",
+          "-2024588",
+          "-2105305",
+          "-2551235",
+          "-2737683",
+          "-2762812",
+          "-2777863",
+          "1661377",
+          "1779807",
+          "CT",
+          "GR",
+          "JA",
+          "RQ",
+          "WI",
+          "-1563952",
+          "-2094976",
+          "-2097522",
+          "-2097701",
+          "-2099860",
+          "-2114674",
+          "-2541260",
+          "-2541857",
+          "-3096949",
+          "-569330",
+          "10457015",
+          "423587",
+          "593907",
+          "758501",
+          "997153",
+          "KS",
+          "NC",
+          "RP",
+          "-1369636",
+          "-1746443",
+          "-1898541",
+          "-2008713",
+          "-2014086",
+          "-2017355",
+          "-2096897",
+          "-2097096",
+          "-2114217",
+          "-2312291",
+          "-2665957",
+          "-2767043",
+          "-780006"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177326948352
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          4.631753031973539
+        ],
+        "_p_stats_cardinality": [
+          0.0550357732526142
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9057826520438684
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 39.46156630109671,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "Content_Length"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          0.5323136170124231
+        ],
+        "id": "Content_Length||gdeltDoc|0|en",
+        "_p_stats_max": [
+          6
+        ],
+        "_p_stats_min": [
+          3
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "13776",
+          "18302",
+          "30597",
+          "48821",
+          "6090",
+          "13979",
+          "6714",
+          "32862",
+          "41411",
+          "4631",
+          "17676",
+          "31920",
+          "15574",
+          "10060",
+          "4108",
+          "7096",
+          "13911",
+          "6211",
+          "9588",
+          "10409",
+          "10705",
+          "16141",
+          "56531",
+          "914",
+          "10815",
+          "11223",
+          "48786",
+          "9107",
+          "8697",
+          "6742",
+          "10401",
+          "10592",
+          "10668",
+          "18395",
+          "20472",
+          "7458",
+          "8023",
+          "12678",
+          "7275",
+          "8402",
+          "8427",
+          "8849",
+          "9010",
+          "9391",
+          "9539",
+          "10346",
+          "12013",
+          "12254",
+          "13056",
+          "143835",
+          "21555",
+          "27962",
+          "3194",
+          "43051",
+          "4968",
+          "64724",
+          "8109",
+          "8290",
+          "9337",
+          "10015",
+          "10944",
+          "10986",
+          "11641",
+          "11919",
+          "11924",
+          "13649",
+          "13822",
+          "144335",
+          "14839",
+          "15145",
+          "15811",
+          "16284",
+          "24753",
+          "31532",
+          "38778",
+          "4003",
+          "4212",
+          "43071",
+          "46294",
+          "48293",
+          "48957",
+          "5066",
+          "5186",
+          "5615",
+          "5923",
+          "6198",
+          "6281",
+          "6321",
+          "6822",
+          "6870",
+          "7058",
+          "9284",
+          "9555",
+          "9866",
+          "9983",
+          "10472",
+          "10758",
+          "1099",
+          "11120",
+          "11140"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000178217189376
+      },
+      {
+        "most_generic_suffix_t": [
+          "TP_"
+        ],
+        "most_generic_suffix_s": "TP_",
+        "_p_stats_average": [
+          1.847579199043634
+        ],
+        "_p_stats_cardinality": [
+          0.0550357732526142
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9057826520438684
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 39.46156630109671,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "parsing_time"
+        ],
+        "datatypes_ss": [
+          "TP_"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": true,
+        "_p_stats_stddev": [
+          0.45353937556287766
+        ],
+        "id": "parsing_time||gdeltDoc|0|en",
+        "_p_stats_max": [
+          3
+        ],
+        "_p_stats_min": [
+          1
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "10",
+          "9",
+          "8",
+          "11",
+          "14",
+          "13",
+          "12",
+          "16",
+          "7",
+          "15",
+          "6",
+          "20",
+          "19",
+          "23",
+          "17",
+          "21",
+          "27",
+          "18",
+          "22",
+          "25",
+          "24",
+          "26",
+          "32",
+          "29",
+          "5",
+          "30",
+          "35",
+          "46",
+          "28",
+          "34",
+          "37",
+          "43",
+          "45",
+          "53",
+          "31",
+          "36",
+          "47",
+          "49",
+          "44",
+          "51",
+          "63",
+          "33",
+          "38",
+          "4",
+          "42",
+          "50",
+          "56",
+          "55",
+          "60",
+          "62",
+          "78",
+          "68",
+          "48",
+          "70",
+          "107",
+          "39",
+          "41",
+          "59",
+          "67",
+          "79",
+          "80",
+          "111",
+          "52",
+          "58",
+          "65",
+          "66",
+          "69",
+          "71",
+          "72",
+          "100",
+          "108",
+          "109",
+          "119",
+          "121",
+          "40",
+          "54",
+          "61",
+          "64",
+          "73",
+          "74",
+          "76",
+          "81",
+          "86",
+          "87",
+          "101",
+          "104",
+          "106",
+          "112",
+          "115",
+          "120",
+          "134",
+          "138",
+          "159",
+          "160",
+          "183",
+          "77",
+          "83",
+          "89",
+          "92",
+          "96"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000179462897664
+      },
+      {
+        "most_generic_suffix_t": [
+          "_f"
+        ],
+        "most_generic_suffix_s": "_f",
+        "_p_stats_average": [
+          27.623085900285744
+        ],
+        "_p_stats_cardinality": [
+          0.21988723731419785
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "Float"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9725822532402791
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.number"
+        ],
+        "most_generic_type_s": "SS.number",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "_p_stats_sum": [
+          53892.640591457486
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 38.76933488578554,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "ActionGeo_Lat"
+        ],
+        "datatypes_ss": [
+          "_f"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          20.555527464430977
+        ],
+        "id": "ActionGeo_Lat||gdeltDoc|0|en",
+        "_p_stats_max": [
+          69
+        ],
+        "_p_stats_min": [
+          -43
+        ],
+        "_p_stats_distinctCount": [
+          429
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "-43.15",
+          "-42.0",
+          "-38.3818",
+          "-37.9527",
+          "-37.9167",
+          "-37.8167",
+          "-36.75",
+          "-35.3167",
+          "-35.2833",
+          "-34.5875",
+          "-34.177",
+          "-33.9167",
+          "-33.8833",
+          "-33.7833",
+          "-33.2569",
+          "-33.1918",
+          "-33.0667",
+          "-31.9333",
+          "-30.2963",
+          "-30.0",
+          "-29.3677",
+          "-28.8167",
+          "-28.3294",
+          "-27.5",
+          "-25.0",
+          "-22.9333",
+          "-22.75",
+          "-22.57",
+          "-22.0",
+          "-19.0",
+          "-18.4167",
+          "-18.0",
+          "-17.8178",
+          "-14.6568",
+          "-12.85",
+          "-12.5",
+          "-10.0",
+          "-9.0",
+          "-8.83833",
+          "-6.0",
+          "-4.45",
+          "-2.52307",
+          "-1.95361",
+          "-1.51667",
+          "-1.28333",
+          "-0.933333",
+          "-0.783333",
+          "-0.527309",
+          "-0.10221",
+          "0.284219",
+          "0.315556",
+          "0.563504",
+          "1.0",
+          "1.366667",
+          "2.0",
+          "2.06667",
+          "2.32839",
+          "2.5",
+          "3.16667",
+          "3.2",
+          "3.35",
+          "4.2201",
+          "4.36667",
+          "4.83333",
+          "5.0",
+          "5.1801",
+          "6.0",
+          "6.45306",
+          "6.45444",
+          "6.5",
+          "6.91428",
+          "7.10651",
+          "7.59667",
+          "8.0",
+          "9.08333",
+          "9.5",
+          "10.0",
+          "10.3333",
+          "10.5231",
+          "10.75",
+          "10.8658",
+          "11.0",
+          "11.4148",
+          "11.4833",
+          "12.0",
+          "12.4904",
+          "12.55",
+          "12.7243",
+          "12.8167",
+          "12.9833",
+          "12.9894",
+          "13.0",
+          "13.166667",
+          "13.35",
+          "13.5",
+          "13.5228",
+          "13.7174",
+          "13.75",
+          "14.0",
+          "14.1",
+          "14.2333",
+          "14.6042",
+          "15.0",
+          "15.5",
+          "15.5881",
+          "16.0",
+          "16.166668",
+          "17.3753",
+          "17.95",
+          "18.0",
+          "18.0167",
+          "18.2359",
+          "18.25",
+          "18.5333",
+          "18.975",
+          "19.0667",
+          "19.1167",
+          "19.8856",
+          "20.0",
+          "20.6",
+          "20.8667",
+          "21.1098",
+          "21.15",
+          "21.219",
+          "21.4267",
+          "21.6333",
+          "22.0",
+          "22.0167",
+          "22.25",
+          "22.2833",
+          "22.3",
+          "22.9614",
+          "23.0",
+          "23.5",
+          "23.7231",
+          "24.0",
+          "25.0667",
+          "25.0833",
+          "25.1877",
+          "25.2274",
+          "25.2522",
+          "25.3333",
+          "25.45",
+          "25.5",
+          "25.6667",
+          "25.7127",
+          "25.7743",
+          "25.9",
+          "26.0",
+          "26.1",
+          "26.1223",
+          "26.1833",
+          "26.2712",
+          "26.3042",
+          "26.7056",
+          "26.8",
+          "26.85",
+          "27.0",
+          "27.7903",
+          "27.8333",
+          "28.4667",
+          "28.6",
+          "28.6667",
+          "29.0836",
+          "29.1667",
+          "29.25",
+          "29.3167",
+          "29.4241",
+          "29.5",
+          "29.6161",
+          "29.7633",
+          "30.0",
+          "30.0445",
+          "30.3602",
+          "30.5494",
+          "30.6257",
+          "30.7408",
+          "30.8938",
+          "30.956",
+          "31.0",
+          "31.106",
+          "31.1522",
+          "31.1677",
+          "31.1801",
+          "31.1981",
+          "31.2222",
+          "31.3292",
+          "31.3795",
+          "31.4167",
+          "31.5",
+          "31.5333",
+          "31.5364",
+          "31.5497",
+          "31.5502",
+          "31.6",
+          "31.6331",
+          "31.7333",
+          "31.7667",
+          "31.7734",
+          "31.7833",
+          "31.8868",
+          "31.9385",
+          "32.0",
+          "32.0387",
+          "32.0667",
+          "32.0833",
+          "32.2199",
+          "32.3",
+          "32.5043",
+          "32.6357",
+          "32.6781",
+          "32.7153",
+          "32.7253",
+          "32.7673",
+          "32.7701",
+          "32.7766",
+          "32.7831",
+          "32.799",
+          "32.8925",
+          "32.9866",
+          "33.0",
+          "33.1668",
+          "33.4484",
+          "33.4504",
+          "33.5",
+          "33.5165",
+          "33.7",
+          "33.833332",
+          "33.8578",
+          "34.0306",
+          "34.0522",
+          "34.0983",
+          "34.3482",
+          "34.3668",
+          "34.5167",
+          "34.6167",
+          "34.7229",
+          "34.7236",
+          "34.796",
+          "34.8375",
+          "34.9513",
+          "34.9685",
+          "35.0",
+          "35.0845",
+          "35.2001",
+          "35.3727",
+          "35.6411",
+          "35.6443",
+          "35.685",
+          "35.7449",
+          "35.75",
+          "35.7721",
+          "35.8997",
+          "35.9003",
+          "35.916668",
+          "35.9282",
+          "35.9306",
+          "36.0",
+          "36.17",
+          "36.175",
+          "36.2028",
+          "36.2251",
+          "36.8065",
+          "36.8468",
+          "37.0",
+          "37.5538",
+          "37.5664",
+          "37.5834",
+          "37.669",
+          "37.6853",
+          "37.768",
+          "37.7749",
+          "38.1833",
+          "38.3527",
+          "38.4199",
+          "38.4623",
+          "38.468",
+          "38.5111",
+          "38.5816",
+          "38.7167",
+          "38.889",
+          "38.8951",
+          "38.8964",
+          "39.0",
+          "39.059013",
+          "39.0646",
+          "39.162",
+          "39.3001",
+          "39.3498",
+          "39.397",
+          "39.6039",
+          "39.6585",
+          "39.7392",
+          "39.7589",
+          "39.828175",
+          "39.8647",
+          "39.9272",
+          "39.9289",
+          "39.9523",
+          "39.9612",
+          "40.0",
+          "40.0279",
+          "40.0595",
+          "40.1135",
+          "40.1998",
+          "40.2884",
+          "40.3337",
+          "40.3363",
+          "40.3478",
+          "40.3736",
+          "40.3953",
+          "40.5034",
+          "40.5173",
+          "40.5773",
+          "40.7793",
+          "40.852",
+          "40.8961",
+          "41.1289",
+          "41.14",
+          "41.1496",
+          "41.1833",
+          "41.2206",
+          "41.2619",
+          "41.2625",
+          "41.2639",
+          "41.2843",
+          "41.3833",
+          "41.4245",
+          "41.526",
+          "41.5834",
+          "41.6833",
+          "41.8",
+          "41.85",
+          "41.8666",
+          "41.9",
+          "41.9445",
+          "41.9904",
+          "42.0",
+          "42.0046",
+          "42.1497",
+          "42.2373",
+          "42.3314",
+          "42.3442",
+          "42.3584",
+          "42.3587",
+          "42.4307",
+          "42.4648",
+          "42.5",
+          "42.6081",
+          "42.7475",
+          "42.833332",
+          "42.8731",
+          "42.8914",
+          "42.9873",
+          "43.0002",
+          "43.0006",
+          "43.0389",
+          "43.0671",
+          "43.1167",
+          "43.1501",
+          "43.3504",
+          "43.4108",
+          "43.55",
+          "43.5667",
+          "43.6461",
+          "43.6552",
+          "43.6667",
+          "43.7334",
+          "43.7425",
+          "43.9165",
+          "44.1037",
+          "44.1075",
+          "44.2115",
+          "44.2563",
+          "44.4736",
+          "44.5672",
+          "44.6074",
+          "44.8186",
+          "45.4167",
+          "45.5333",
+          "45.5667",
+          "45.7326",
+          "45.8",
+          "46.0",
+          "46.8773",
+          "46.9048",
+          "46.9167",
+          "47.0",
+          "47.3917",
+          "47.5",
+          "47.5362",
+          "48.0667",
+          "48.2",
+          "48.8667",
+          "49.2",
+          "49.216667",
+          "49.25",
+          "49.6667",
+          "49.8833",
+          "50.3667",
+          "51.1811",
+          "51.45",
+          "51.5",
+          "51.6089",
+          "52.2667",
+          "52.3",
+          "52.35",
+          "52.5",
+          "52.5167",
+          "53.05",
+          "53.4333",
+          "53.9",
+          "54.0",
+          "54.65",
+          "54.8333",
+          "54.9167",
+          "55.6667",
+          "55.7522",
+          "55.763",
+          "55.95",
+          "57.0",
+          "57.5787",
+          "59.8944",
+          "60.0",
+          "61.385",
+          "62.0",
+          "62.4333",
+          "69.0",
+          "69.1167"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177345822720
+      },
+      {
+        "most_generic_suffix_t": [
+          "_s"
+        ],
+        "most_generic_suffix_s": "_s",
+        "_p_stats_average": [
+          29.628012048192772
+        ],
+        "_p_stats_cardinality": [
+          0.05
+        ],
+        "object_type_t": [
+          "Node"
+        ],
+        "object_type_s": "Node",
+        "type_names_ss": [
+          "String"
+        ],
+        "_p_stats_fieldDensity": [
+          0.9970089730807578
+        ],
+        "node_type_t": [
+          "Attribute"
+        ],
+        "class_ids_s": "gdeltDoc|0|en",
+        "most_generic_type_t": [
+          "SS.String"
+        ],
+        "most_generic_type_s": "SS.String",
+        "node_type_s": "Attribute",
+        "class_ids_t": [
+          "gdeltDoc|0|en"
+        ],
+        "schema_id_s": "http://10.2.49.35:8983/solr/|gdelt",
+        "_p_stats_facetScore_d": 37.925224327018945,
+        "schema_id_t": [
+          "http://10.2.49.35:8983/solr/|gdelt"
+        ],
+        "attr_id": [
+          "EventCodeName"
+        ],
+        "datatypes_ss": [
+          "_s"
+        ],
+        "docValues_b": true,
+        "Multivalued_b": false,
+        "_p_stats_stddev": [
+          12.945773467295103
+        ],
+        "id": "EventCodeName||gdeltDoc|0|en",
+        "_p_stats_max": [
+          75
+        ],
+        "_p_stats_min": [
+          7
+        ],
+        "_p_stats_distinctCount": [
+          100
+        ],
+        "hierarchy_level_i": 2,
+        "attr__p_stats_distinctValues_": [
+          "Make a visit",
+          "Consult, not specified below",
+          "Host a visit",
+          "Make statement, not specified below",
+          "Make an appeal or request, not specified below",
+          "Express intent to meet or negotiate",
+          "Arrest, detain, or charge with legal action",
+          "Praise or endorse",
+          "Use conventional military force, not specified below",
+          "Engage in negotiation",
+          "Accuse, not specified below",
+          "Make optimistic comment",
+          "Disapprove, not specified below",
+          "Criticize or denounce",
+          "Threaten, not specified below",
+          "Engage in material cooperation, not specified below",
+          "Make pessimistic comment",
+          "Yield, not specified below",
+          "Fight with small arms and light weapons",
+          "Reject, not specified below",
+          "Investigate, not specified below",
+          "Acknowledge or claim responsibility",
+          "Return, release, not specified below",
+          "Provide economic aid",
+          "Demand, not specified below",
+          "Consider policy option",
+          "Express intent to cooperate, not specified below",
+          "Provide aid, not specified below",
+          "Complain officially",
+          "Use unconventional violence, not specified below",
+          "Engage in diplomatic cooperation, not specified below",
+          "Express intent to cooperate economically",
+          "Decline comment",
+          "Occupy territory",
+          "Impose administrative sanctions, not specified below",
+          "Abduct, hijack, or take hostage",
+          "Appeal to others to meet or negotiate",
+          "Defy norms, law",
+          "Express intent to engage in material cooperation, not specified below",
+          "Physically assault, not specified below",
+          "Sign formal agreement",
+          "Cooperate economically",
+          "Ease administrative sanctions, not specified below",
+          "Discuss by telephone",
+          "Engage in symbolic act",
+          "Express intent to engage in diplomatic cooperation (such as policy support)",
+          "Express intent to provide economic aid",
+          "Appeal for aid, not specified below",
+          "Fight with artillery and tanks",
+          "Make empathetic comment",
+          "Provide humanitarian aid",
+          "Reduce relations, not specified below",
+          "Appeal for diplomatic cooperation (such as policy support)",
+          "Conduct suicide, car, or other non-military bombing, not specified below",
+          "Demonstrate or rally, not specified below",
+          "Express intent to provide material aid, not specified below",
+          "Impose blockade, restrict movement",
+          "Provide military aid",
+          "Retreat or surrender militarily",
+          "Torture",
+          "Accuse of aggression",
+          "Accuse of war crimes",
+          "Appeal for intelligence",
+          "Assassinate",
+          "Bring lawsuit against",
+          "Rally opposition against",
+          "Return, release person(s)",
+          "Sexually assault",
+          "Appeal for economic aid",
+          "Appeal for humanitarian aid",
+          "Appeal for military protection or peacekeeping",
+          "Coerce, not specified below",
+          "Cooperate militarily",
+          "De-escalate military engagement",
+          "Destroy property",
+          "Employ aerial weapons, not specified below",
+          "Express intent to de-escalate military engagement",
+          "Express intent to release persons or property",
+          "Express intent to yield, not specified below",
+          "Give ultimatum",
+          "Halt negotiations",
+          "Impose embargo, boycott, or sanctions",
+          "Increase military alert status",
+          "Mobilize or increase police power",
+          "Reject proposal to meet, discuss, or negotiate",
+          "Accede to demands for rights",
+          "Appeal for judicial cooperation",
+          "Appeal to others to settle dispute",
+          "Appeal to yield, not specified below",
+          "Defend verbally",
+          "Demand intelligence cooperation",
+          "Demand material cooperation, not specified below",
+          "Demobilize armed forces",
+          "Deny responsibility",
+          "Ease economic sanctions, boycott, embargo",
+          "Engage in ethnic cleansing",
+          "Express intent to provide humanitarian aid",
+          "Express intent to provide military aid",
+          "Impose state of emergency or martial law",
+          "Kill by physical assault"
+        ],
+        "date_added_l": 1532547679001,
+        "_version_": 1607000177961336832
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+    <title>Collection Explorer</title>
+    <style>
+        svg {
+            border: 1px solid white;
+        }
+
+        h1, p {
+            color: #DDD;
+        }
+
+        path {
+            /*stroke: #999;*/
+            stroke-opacity: 0.7;
+            fill: none;
+        }
+
+        body {
+            background-color: rgb(51, 51, 51);
+        }
+
+        text {
+            fill: #DDD;
+            font-size: 10px;
+            text-anchor: middle;
+            pointer-events: none;
+            cursor: none;
+            opacity: 0;
+        }
+
+        g:hover > .nodeLabel {
+            opacity: 1;
+        }
+
+        input[type=range] {
+            width: 400px;
+            pointer-events: none;
+        }
+
+        input[type=range]:active,
+        input[type=range]:focus {
+            outline: none;
+        }
+
+        input[type=range]::-webkit-slider-thumb {
+            height: 28px;
+            width: 28px;
+            border-radius: 28px;
+            background-color: #fff;
+            position: relative;
+            margin: 5px 0;
+            /* Add some margin to ensure box shadow is shown */
+
+            cursor: pointer;
+            appearance: none;
+            pointer-events: all;
+            box-shadow: 0 1px 4px 0.5px rgba(0, 0, 0, 0.25);
+        }
+
+        .multi-range input[type=range] {
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<h1>Server</h1>
+<input id="serverField" type="text" name="host">
+<h1>Collection</h1>
+<input id="collectionField" type="text" name="port">
+<h1>Primary Facet</h1>
+<input id="primaryTypeField" type="text" name="facet">
+<h1>Secondary Facet</h1>
+<input id="secondaryFacetField" type="text" name="facet">
+<h1>Time Stamp</h1>
+<input id="timeStampField" type="text" name="timeStamp"><br>
+<h1># of Rows</h1>
+<input id="numRows" type="text" name="numRows" value="5"><br>
+<button id="Reset" onclick="resetQuery()">Load</button>
+<br>
+<svg width="1400" height="900"></svg>
+<!--<button id="linkLabels" onclick="toggleLabels()">Link Labels</button><br>-->
+<div id="detailsPanel" style="float: right">
+    <h1>Node Details</h1>
+</div>
+<div id="facetDiv" width="1800" height="300">
+</div>
+<span class="multi-range">
+    <input id="lower" type="range" min="1" max="4">
+    <input id="upper" type="range" min="1" max="4">
+</span>
+<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+<script type="text/javascript" src="../Javascript/SolrFacetExplorerCircle.js"></script>
+</body>
+</html>

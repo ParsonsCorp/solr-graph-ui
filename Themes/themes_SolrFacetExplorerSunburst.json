@@ -1,0 +1,23 @@
+{
+  "theme1": {
+    "colors": [
+      "#72a555",
+      "#ab62c0",
+      "#ca5670",
+      "#638ccc"
+    ],
+    "background": "rgb(51,51,51)",
+    "other":"#fff",
+    "null":"red"
+  },
+  "theme2": {
+    "colors": [
+      "#c3e289",
+      "#68e6c0",
+      "#dce145",
+      "#83e85a",
+      "#edbe68"
+    ],
+    "background": "rgb(51,51,51)"
+  }
+}
